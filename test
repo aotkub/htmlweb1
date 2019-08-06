@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>My first styled page</title>
+  <style type="text/css">
+  body {
+    color: purple;
+    background-color: #d8da3d }
+  </style>
+  </head>
+   <body bgcolor=lightblue>
+    ณัฐภัทร ปานเกลี้ยง ชั้น 5/2 เลขที่ 12
+      <ul class="navbar">
+         <li><a href="index.html">Home page</a>
+         <li><a href="musings.html">Musings</a>
+         <li><a href="town.html">My town</a>
+         <li><a href="links.html">Links</a>
+         <li><a href="aot.html">Grade</a>
+         <li><a href="aotBmi.html">BMI</a>
+   </body>
+   </html>
